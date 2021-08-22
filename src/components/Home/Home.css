@@ -1,0 +1,18 @@
+.title{
+    text-align: center;
+    margin-top: 20px;
+}
+.success-button{
+    margin-bottom: 20px;
+}
+.success-button:hover{
+    color:#000;
+}
+.button{
+    margin-right: 15px;
+    color:#fff;
+    margin-bottom: 5px;
+}
+.button:hover{
+    color:#000;
+}

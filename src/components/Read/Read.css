@@ -1,0 +1,21 @@
+.title{
+    margin-top: 50px;
+}
+.read-box{
+    height:300px;
+    width:500px;
+    border: 2px solid mediumturquoise;
+    margin: 0 auto;
+    padding-left: 10px;
+    padding-top: 70px;
+   
+}
+.goTo-home{
+   color:#fff !important;
+   float: right;
+   margin-right: 10px;
+   margin-top: 10px;
+}
+.goTo-home:hover{
+   color:#111 !important
+}
